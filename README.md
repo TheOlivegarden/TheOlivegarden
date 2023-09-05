@@ -1,4 +1,4 @@
-<h1> <img src="https://avatars.githubusercontent.com/u/137838454?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle" /> @TheOlivegarden's Profile</h1>
+<h1>@TheOlivegarden's Profile</h1>
 
 Hello there! 👋 I'm @TheOlivegarden, and I'm on a journey to become a proficient developer. I have a diverse set of skills and a passion for learning. Currently, I'm diving into the world of C#, adding another programming language to my toolkit. Here's a little more about me and my interests:
 
